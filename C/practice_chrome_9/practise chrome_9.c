@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-char alph;
-scanf("%c",&alph);
+char alpha;
+scanf("%c",&alpha);
 ('0'<=alpha && alpha<='9')
 }
