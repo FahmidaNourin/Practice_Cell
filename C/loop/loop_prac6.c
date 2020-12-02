@@ -2,8 +2,8 @@
 int main(){
 
 int i;
-for (i=4;i<=24;i)
-
+for (i=5103;i<=15102;i++)
+    //(i=1+x;i<=24+x=3)
 {
     printf("%d",i);
     printf("------------\n");
