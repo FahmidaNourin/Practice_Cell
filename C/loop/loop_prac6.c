@@ -2,7 +2,7 @@
 int main(){
 
 int i;
-for (i=1;i<=100;i++)
+for (i=4;i<=24;i)
 
 {
     printf("%d",i);
