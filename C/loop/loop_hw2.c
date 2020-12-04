@@ -6,7 +6,7 @@ int main()
     for(i=2;i<=n;i=i*2)
     {
         sum=sum*i;
-        printf("%d\n",i);
+
     }
     printf("%d",sum);
 }

@@ -6,7 +6,7 @@ int main()
     for(i=3;i<=n;i=i+3)
     {
         sum=sum+(i*i);
-        printf("%d\n",i);
+
     }
     printf("%d",sum);
 }
