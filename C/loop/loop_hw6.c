@@ -6,5 +6,5 @@ int main()
     {
         d=d+6;
     }
-    printf("%d",d);// printf banan vul hoise printf hobe
+    printf("%d",d);
 }

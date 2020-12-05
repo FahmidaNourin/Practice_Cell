@@ -6,8 +6,6 @@ int main()
     for(i=1;i<=n;i++)
     {
         m=m*i;
-        printf("%d\n",i);
     }
     printf("%d",m);
 }
-
