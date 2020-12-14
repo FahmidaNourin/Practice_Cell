@@ -2,10 +2,10 @@
 int main()
 {
     int i,n;
-    printf("Enter the valu of n");
+    printf("Enter the value of n");
     scanf("%d",&n);
     for(i=1;i<=n;i++)
     {
-        printf("%d",&i);
+        printf("%d\n",&i);
     }
 }
