@@ -6,30 +6,30 @@ int main()
     scanf("%d",&week);
     if(week==1)
     {
-        printf("Sunday",week);
+        printf("Sunday");
     }
     else if(week==2)
     {
-        printf("Monday",week);
+        printf("Monday");
     }
     else if(week==3)
     {
-        printf("Tuesday",week);
+        printf("Tuesday");
     }
     else if(week==4)
     {
-        printf("Wednesday",week);
+        printf("Wednesday");
     }
     else if(week==5)
     {
-        printf("Thursday",week);
+        printf("Thursday");
     }
     else if(week==6)
     {
-        printf("Friday",week);
+        printf("Friday");
     }
     else
     {
-        printf("Saturday",week);
+        printf("Saturday");
     }
 }
