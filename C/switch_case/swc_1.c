@@ -12,7 +12,7 @@ switch (x%2)
 	case 0: printf("The number is even");
 			break;
 	case 1: printf("The number is odd");
-				break;
+            break;
 }
 return 0;
 }

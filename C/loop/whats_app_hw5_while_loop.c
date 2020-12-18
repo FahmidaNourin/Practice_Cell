@@ -15,7 +15,9 @@ int main()
             {
                 sum2=sum2+i;
 
-        } i++;
+        }
+
+        i++;
 
     }
     printf("%d %d is the value",sum1,sum2);
